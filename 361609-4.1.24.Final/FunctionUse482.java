@@ -1,0 +1,6 @@
+import io.netty.handler.ssl.ClientAuth;
+public class FunctionUse482 {
+public void funcUse() {
+ClientAuth clientauth = new ClientAuth();
+}
+}
